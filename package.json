@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Booze33/Jest-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Booze33/Jest-Test/issues"
+  },
+  "homepage": "https://github.com/Booze33/Jest-Test#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
